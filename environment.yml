@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+  - defaults
+  - omnia
+dependencies:
+  - matplotlib
+  - pandas
+  - cython
+  - numpy
+  - seaborn
+  - mdtraj
+  - pip:
+    - plumitas
