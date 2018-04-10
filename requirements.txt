@@ -3,5 +3,5 @@ numpy
 seaborn
 matplotlib
 plumitas
-numpy cython
+cython
 mdtraj
