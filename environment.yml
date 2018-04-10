@@ -7,6 +7,7 @@ dependencies:
   - pandas
   - cython
   - numpy
+  - scipy
   - seaborn
   - mdtraj
   - pip:
